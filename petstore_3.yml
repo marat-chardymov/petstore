@@ -63,7 +63,7 @@ paths:
     post:
       tags:
         - pet
-      summary: Add a new pet to the store test 2
+      summary: Add a new pet to the store test 3
       operationId: addPet
       requestBody:
         description: Pet object that needs to be added to the store
