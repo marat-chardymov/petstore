@@ -36,7 +36,7 @@ paths:
       summary: Update an existing pet
       operationId: updatePet
       requestBody:
-        description: Pet object that needs to be added to the store
+        description: Pet object that needs to be added to the store test github changes
         content:
           application/json:
             schema:
